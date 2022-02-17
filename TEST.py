@@ -15,7 +15,7 @@ def get_request_url(url):
         return None
 
 #API 받아오기 설정
-key = '6vj%2BtrHJwPedYTlk7Lad5rfHa7ZjLgbp7he0eRo9O0DoyEJfn8HV2DIKQqdLPypeXvt5tE7c5Oq4cWW3LQzQ4A%3D%3D'
+key = ####
 busRouteld = '102000041'
 
 queryParams = 'serviceKey='+key+'&stId='+busRouteld+'&'
