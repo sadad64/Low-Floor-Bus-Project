@@ -28,17 +28,6 @@ car = str(input('>> 저상버스 운행정보를 조회할 정류소의 ID를 �
 reservation = random.randint(1,10)
 
 
-
-
-# 엑셀시트 연계하기
-
-
-
-
-
-
-
-
 # 공공데이터포털로부터 API 받아오기 설정
 
 key = ''
