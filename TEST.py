@@ -22,12 +22,6 @@ queryParams = 'serviceKey='+key+'&stId='+busRouteld+'&'
 url = 'http://ws.bus.go.kr/api/rest/arrive/getLowArrInfoByStId?'+queryParams
 
 print(url)
-#req = urllib.request.urlopen(url)
-#print(type(req))
-
-#retData = get_request_url(url)
-#print(retData)
-
 
 
 ## API 읽어오기 설정 끝
