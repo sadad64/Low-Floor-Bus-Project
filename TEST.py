@@ -25,8 +25,6 @@ print(url)
 
 
 ## API 읽어오기 설정 끝
-
-
 # xml 읽어오기
 import xmltodict
 
